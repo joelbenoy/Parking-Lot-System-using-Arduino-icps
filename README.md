@@ -12,6 +12,8 @@ The core functionality revolves around detecting changes in the IR sensor's digi
 
 This prototype is a foundational model for modern IoT-enabled parking systems, offering efficient space usage, reduced traffic congestion, and enhanced user convenience.
 
+![WhatsApp Image 2025-09-01 at 21 18 08_15a9c0ca](https://github.com/user-attachments/assets/15a1e51a-dff5-40be-821a-4ca378d87c2e)
+
 Hardware Used:
 
 -Arduino Nano
